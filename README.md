@@ -1,7 +1,7 @@
 # README for Bubble Growth Prediction Model
 
 ## Overview
-This document provides an overview and usage guide for the Python script dedicated to training and evaluating a machine learning model that predicts the diameter of a bubble as a function of time, based on experimental data.
+This document provides an overview and usage guide for the Python script dedicated to training and evaluating a machine learning model that predicts the diameter of a bubble as a function of time, based on experimental data under different conditions. 
 
 ### Overview
 The Python script uses data from multiple CSV files containing information on bubble growth over time under various conditions. The script preprocesses the data, trains an XGBoost regression model, evaluates its performance, and visualizes the predictions compared to the true values. The model and its predictions help understand the dynamics of bubble growth, which could be crucial for applications in fluid dynamics and related fields.
