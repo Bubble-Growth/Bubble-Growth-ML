@@ -30,7 +30,13 @@ Ensure that these files are located in the same directory as the script or modif
 ### Data Loading and Cleaning
 The script starts by loading the data from CSV files, checking data types, and handling missing values.
 ### Feature and Target Selection
-It extracts features and targets from the datasets. The target variable is the normalized diameter of the bubble (d/dMax), and features include time and other experimental parameters.
+It extracts features and targets from the datasets. The target variable is the normalized diameter of the bubble (d/dMax), and features include:
+- Pressure (bar)
+- Heat Flux (kW/m2)
+- Mass Flux (kg/m2)
+- Sub-cooling temperature (K)
+- Channel diameter
+- Normalized Time (ms) (t/tMax)
 ### Model Training
 Uses XGBRegressor to train a model on the dataset. The hyperparameters of the model are optimized using GridSearchCV.
 ### Model Evaluation
