@@ -21,7 +21,7 @@ pip install numpy pandas scikit-learn xgboost matplotlib pickle5
 
 ## Data Files
 The script assumes the availability of  data file in CSV format:
-- BubbleGrowth_vs_Time.xlsx - Final_ex_Data (1).csv: Testing and additional training data.
+- BubbleGrowth_vs_Time.csv: Testing and additional training data.
 
 
 Ensure that these files are located in the same directory as the script or modify the paths in the script accordingly.
