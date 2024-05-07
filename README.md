@@ -49,5 +49,22 @@ The trained model is saved using pickle and can be loaded for later use or deplo
 The script includes a function evaluation which takes true values and predictions as input and prints various evaluation metrics.
 
 ## Running the Script
-To run the script, navigate to the directory containing the script and execute it with Python:
+To run the script, navigate to the directory containing the script and execute it with Python.
+
+## True v/s Predicted D v/s t Plots 
+
+![WhatsApp Image 2024-05-07 at 15 18 54_357b53cb](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/f0f9a60a-8dad-45de-96b4-0b5b159c9fe3)
+
+![WhatsApp Image 2024-05-07 at 15 19 16_db3bcc8e](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/d50c0596-07ae-4aa5-9b09-8dd46e336cdd)
+
+![WhatsApp Image 2024-05-07 at 15 19 37_1f9cb029](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/29f4ee37-33f1-4c4a-94aa-89b175b54292)
+
+## Predicted v/s True Diameter Comparision Plots
+
+![WhatsApp Image 2024-05-07 at 15 18 54_87c3965a](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/8182b019-84dd-4c07-a975-2de4cc486148)
+
+![WhatsApp Image 2024-05-07 at 15 19 16_974e9cb9](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/91b15877-c269-42a6-a17d-9be436e9381c)
+
+![WhatsApp Image 2024-05-07 at 15 19 38_51aec0f0](https://github.com/Bubble-Growth/Bubble-Growth-ML/assets/118654264/6f016a79-c16f-4403-ad1a-09686ed0711e)
+
 
